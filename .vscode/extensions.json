@@ -1,0 +1,23 @@
+{
+  "recommendations": [
+    "declanzou.index-generator",
+    "eamodio.gitlens",
+    "streetsidesoftware.code-spell-checker",
+    "editorconfig.editorconfig",
+    "visualstudioexptteam.vscodeintellicode",
+    "rbbit.typescript-hero",
+    "naumovs.color-highlight",
+    "ms-vscode.references-view",
+    "krizzdewizz.refactorix",
+    "stringham.move-ts",
+    "pkief.material-icon-theme",
+    "johnpapa.vscode-peacock",
+    "nhoizey.gremlins",
+    "mariusalchimavicius.json-to-ts",
+    "CoenraadS.bracket-pair-colorizer-2",
+    "msjsdiag.debugger-for-chrome",
+    "ms-edgedevtools.vscode-edge-devtools",
+    "dbaeumer.vscode-eslint",
+    "aaron-bond.better-comments"
+  ]
+}

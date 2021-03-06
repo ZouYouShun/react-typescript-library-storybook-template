@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Components/Thumbnail Thumbnail 1`] = `
+<div
+  style={
+    Object {
+      "background": "yellow",
+      "color": "blue",
+    }
+  }
+>
+  Text
+</div>
+`;

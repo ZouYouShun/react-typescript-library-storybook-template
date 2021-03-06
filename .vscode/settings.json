@@ -1,0 +1,36 @@
+{
+  "fileheader.tpl": "/*\r\n * @Author: {author}\r\n * @Date: {createTime}\r\n * Copyright © RingCentral. All rights reserved.\r\n */\r\n",
+  "typescript.surveys.enabled": false,
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "editor.suggestSelection": "first",
+  "typescript.preferences.importModuleSpecifier": "relative",
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.foldingStrategy": "indentation",
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.foldingStrategy": "indentation",
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "cSpell.words": [
+    "Storyshots"
+  ]
+}
