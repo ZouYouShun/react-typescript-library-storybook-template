@@ -1,7 +1,6 @@
 {
   "name": "react-typescript-library-storybook-template",
   "version": "1.0.1",
-  "license": "MIT",
   "keywords": [
     "react",
     "template",
@@ -10,6 +9,7 @@
     "storybook",
     "UI library"
   ],
+  "license": "MIT",
   "author": "Alan Zou",
   "main": "./index.js",
   "module": "./es6/index.js",
