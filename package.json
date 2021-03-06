@@ -29,6 +29,8 @@
     "lint:ts": "eslint '**/src/**/*.{ts,tsx,json}'",
     "package": "rm -rf dist && npm run build:lib",
     "postpackage": "node scripts/release.js",
+    "prepublish": "npm run build:storybook",
+    "publish": "npx gh-pages -d public",
     "release-after": "npm run update-mdx && ts-node scripts/mergeIntoPreviousCommit && npm run start-next",
     "release-major": "node scripts/release/majorRelease.run.js",
     "postrelease-major": "npm run release-after",
